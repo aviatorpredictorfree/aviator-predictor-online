@@ -1,7 +1,5 @@
 # aviator-predictor-online
 
-## Master the Aviator Game with the Aviator Predictor: A 2024 Guide
-
 ![Aviator-predictor](./aviatorpredictor.webp)
 
 # Table of Contents
@@ -24,6 +22,7 @@
    - [3. How long can I predict with a tool?](#3-how-long-can-i-predict-with-a-tool)
    - [4. Are there any legal implications of using the free Aviator Predictor online?](#4-are-there-any-legal-implications-of-using-the-free-aviator-predictor-online)
 
+## Master the Aviator Game with the Aviator Predictor: A 2024 Guide
 
 The Aviator Game is an interesting online game in which the participants gamble on the height of the plane. The more the plane rises, the more profits you can get. All in good time before the plane takes off. This combination of luck and timing makes it very appealing to online players.
 
